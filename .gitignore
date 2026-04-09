@@ -428,3 +428,5 @@ FodyWeavers.xsd
 *.msp
 
 *.sln
+
+appsettings.json
